@@ -1,4 +1,4 @@
-# Gender-inclusive Cities — Editorial conference website (Option B)
+# Gender-inclusive Cities — conference website
 
 Static, responsive website ready for **GitHub Pages** (no build step, no Jekyll, no JavaScript required).
 
